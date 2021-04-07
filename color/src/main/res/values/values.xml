@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_picker_cursor_size">24dp</dimen>
+    <dimen name="color_picker_cursor_stroke_size">2dp</dimen>
+    <dimen name="color_picker_cursor_offset">2dp</dimen>
+</resources>

@@ -1,0 +1,20 @@
+[2021-04-07 15:16:06] [L] galaxy property is null or empty 
+[2021-04-07 15:16:06] [L] Non-GB Project : Color 
+[2021-04-07 15:16:06] [L] allprojects : project : app 
+[2021-04-07 15:16:06] [L] Non-GB Project : app 
+[2021-04-07 15:16:06] [L] allprojects : project : color 
+[2021-04-07 15:16:06] [L] Non-GB Project : color 
+[2021-04-07 15:16:06] [D] gradle projects loaded 
+[2021-04-07 15:16:06] [I] set common default repository : samsung maven 
+[2021-04-07 15:16:06] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-04-07 15:16:06] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-04-07 15:16:06] [I] set common default strategy 
+[2021-04-07 15:16:06] [I] set common default repository : samsung maven 
+[2021-04-07 15:16:06] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-04-07 15:16:06] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-04-07 15:16:06] [I] set common default strategy 
+[2021-04-07 15:16:06] [I] set common default repository : samsung maven 
+[2021-04-07 15:16:06] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-04-07 15:16:06] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-04-07 15:16:06] [I] set common default strategy 
+[2021-04-07 15:16:07] [D] gradle projects evaluated 
